@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @dineshsandy0729
 - 👀 I’m interested in ...cricket 
 - 🌱 I’m currently learning ...Html 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...with learning 
-- 😄 Pronouns: ...Vazkaiye vazdhane
-- ⚡ Fun fact: ...Kadavulai Mara manidhani Nena 
+- 📫 How to reach me ...kandu pudi 
+- 😄 Pronouns: ...Vazkaiye vazadhane
+- ⚡ Fun fact: ....vazhkana apdi dha irukum
 
 <!---
 dineshsandy0729/dineshsandy0729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
